@@ -28,9 +28,9 @@ Skills listed below represent my core expertise, but this is not an exhaustive l
 
 *  **Frontend Dev:** TypeScript, React, Next.js, Storybook
 *  **Component Libraries:** TailwindCSS
-*  **Data & Systems:** TanStack Query, GraphQL, Module Federation
+*  **Data & Systems:** GraphQL, Module Federation
 *  **Languages:** JavaScript, HTML, CSS, Node.js, Python
-*  **State Management:** Redux/MobX, React Context
+*  **State Management:** Redux/MobX, React Context, TanStack Query
 *  **Build & Orchestration:** Vite, Webpack
 *  **Testing & Quality:** Playwright, Cypress, Vitest, Jest, React Testing Library, Code Reviews, Unit/Integration Testing
 *  **DevOps & Collaboration:** Git, Agile Methodologies, CI/CD Principles
