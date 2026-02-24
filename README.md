@@ -93,7 +93,7 @@ sat         22 commits     ██░░░░░░░░░░░░░░░�
 
 ## 🤝 FOSS/OSS - Building for the Commons <img src="https://emojis.slackmojis.com/emojis/images/1643515839/18543/teamwork.gif?1643515839" width="50" />
 
-I’m particularly interested in supporting non-profits and library maintainers with frontend work.  If you're building a project that benefits the community and need help with React, TypeScript, or just a fresh pair of eyes, reach out. I'm freemium for non-profits.
+I’m particularly interested in supporting non-profits and library maintainers with frontend work.  If you're building a project that benefits the community and need help with React, TypeScript, or just a fresh pair of eyes, reach out.
 
 * **Open to:** Frontend development, documentation, project management.
 * **Specifically Looking For:** Projects prioritizing accessibility, ethical data practices, and consumer empowerment.
