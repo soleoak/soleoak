@@ -4,7 +4,7 @@
 </div>
 
 ```tsx
-<dev role="developer" vibeCoder={false} mood="tortilla chip broke in the fundido" isThisSectionPointless={true}  />
+<dev role="developer" vibeCoder={false} mood="tortilla chip broke in the fundido" isSectionUseless={true}  />
 ```
 <div align="center"
 <span>Matrix: @soleoak:matrix.org</span>
